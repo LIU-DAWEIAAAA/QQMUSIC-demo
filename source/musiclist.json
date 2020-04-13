@@ -1,0 +1,148 @@
+
+
+[
+	{
+		"name":"星星眼睛",
+		"singer":"蔡淳佳",
+		"album":"有一天我会",
+		"time":"05:07",
+		"link_url":"./source/蔡淳佳 - 星星眼睛.mp3",
+		"cover":"./source/蔡淳佳 - 星星眼睛.jpg",
+		"link_lrc":"./source/蔡淳佳 - 星星眼睛.txt"
+	},
+	
+	{
+		"name":"年轮说 (Cover：杨丞琳)",
+		"singer":"伦桑",
+		"album":"年轮说",
+		"time":"04:45",
+		"link_url":"./source/伦桑 - 年轮说 (Cover：杨丞琳).mp3",
+		"cover":"./source/伦桑 - 年轮说 (Cover：杨丞琳).jpg",
+		"link_lrc":"./source/伦桑 - 年轮说 (Cover：杨丞琳).txt"
+	},
+	
+	{
+		"name":"カワキヲアメク (声嘶力竭)",
+		"singer":"美波",
+		"album":"カワキヲアメク ",
+		"time":"04:12",
+		"link_url":"./source/美波 - カワキヲアメク (声嘶力竭).mp3",
+		"cover":"./source/美波 - カワキヲアメク (声嘶力竭).jpg",
+		"link_lrc":"./source/美波 - カワキヲアメク (声嘶力竭).txt"
+	},
+	
+	{
+		"name":"千灯之约 (伴奏)",
+		"singer":"无限王者团",
+		"album":"王者荣耀",
+		"time":"06:07",
+		"link_url":"./source/无限王者团 - 千灯之约 (伴奏).mp3",
+		"cover":"./source/无限王者团 - 千灯之约 (伴奏).jpg",
+		"link_lrc":"./source/无限王者团 - 千灯之约 (伴奏).txt"
+	},
+	
+	{
+		"name":"爱殇",
+		"singer":"小时姑娘",
+		"album":"爱殇",
+		"time":"05:03",
+		"link_url":"./source/小时姑娘 - 爱殇.mp3",
+		"cover":"./source/小时姑娘 - 爱殇.jpg",
+		"link_lrc":"./source/小时姑娘 - 爱殇.txt"
+	},
+	
+	{
+		"name":"爱殇 (男版)",
+		"singer":"小时姑娘 _ 龚骏",
+		"album":"爱殇",
+		"time":"05:25",
+		"link_url":"./source/小时姑娘 _ 龚骏 - 爱殇 (男版).mp3",
+		"cover":"./source/小时姑娘 _ 龚骏 - 爱殇 (男版).jpg",
+		"link_lrc":"./source/小时姑娘 _ 龚骏 - 爱殇 (男版).txt"
+	},
+	
+	{
+		"name":"还是会想你",
+		"singer":"Fine乐团",
+		"album":"I'm Sorry",
+		"time":"04:57",
+		"link_url":"./source/Fine乐团 - 还是会想你.mp3",
+		"cover":"./source/Fine乐团 - 还是会想你.jpg",
+		"link_lrc":"./source/Fine乐团 - 还是会想你.txt"
+	},
+	
+	{
+		"name":"Start Again",
+		"singer":"OneRepublic",
+		"album":"Start Again",
+		"time":"02:45",
+		"link_url":"./source/OneRepublic _ Logic - Start Again.mp3",
+		"cover":"./source/OneRepublic _ Logic - Start Again.jpg",
+		"link_lrc":"./source/OneRepublic _ Logic - Start Again.txt"
+	},
+	
+	{
+		"name":"对不起，我爱你",
+		"singer":"蔡淳佳",
+		"album":"对不起，我爱你",
+		"time":"05:16",
+		"link_url":"./source/蔡淳佳 - 对不起，我爱你.mp3",
+		"cover":"./source/蔡淳佳 - 对不起，我爱你.jpg",
+		"link_lrc":"./source/蔡淳佳 - 对不起，我爱你.txt"
+	},
+	
+	{
+		"name":"我们俩",
+		"singer":"郭顶",
+		"album":"我们俩",
+		"time":"03:13",
+		"link_url":"./source/郭顶 - 我们俩.mp3",
+		"cover":"./source/郭顶 - 我们俩.jpg",
+		"link_lrc":"./source/郭顶 - 我们俩.txt"
+	},
+	
+	{
+		"name":"残酷月光 (Live)",
+		"singer":"林宥嘉",
+		"album":"残酷月光",
+		"time":"04:24",
+		"link_url":"./source/林宥嘉 - 残酷月光 (Live).mp3",
+		"cover":"./source/林宥嘉 - 残酷月光 (Live).jpg",
+		"link_lrc":"./source/林宥嘉 - 残酷月光 (Live).txt"
+	},
+	
+	{
+		"name":"油尖旺金毛玲",
+		"singer":"树妮妮Serrini",
+		"album":"油尖旺金毛玲",
+		"time":"04:41",
+		"link_url":"./source/树妮妮Serrini - 油尖旺金毛玲.mp3",
+		"cover":"./source/树妮妮Serrini - 油尖旺金毛玲.jpg",
+		"link_lrc":"./source/树妮妮Serrini - 油尖旺金毛玲.txt"
+	},
+	
+	{
+		"name":"心做し (无心)",
+		"singer":"双笙",
+		"album":"心做し",
+		"time":"04:28",
+		"link_url":"./source/双笙 - 心做し (无心).mp3",
+		"cover":"./source/双笙 - 心做し (无心).jpg",
+		"link_lrc":"./source/双笙 - 心做し (无心).txt"
+	},
+	
+	{
+		"name":"爱如潮水",
+		"singer":"张信哲",
+		"album":"拥有",
+		"time":"04:35",
+		"link_url":"./source/张信哲 - 爱如潮水.mp3",
+		"cover":"./source/张信哲 - 爱如潮水.jpg",
+		"link_lrc":"./source/张信哲 - 爱如潮水.txt"
+	}
+	
+	
+]
+
+
+
